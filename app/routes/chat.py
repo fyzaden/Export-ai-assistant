@@ -10,17 +10,37 @@ ai_service = AIService()
 
 @chat_bp.post("/api/chat")
 def chat():
-    data = request.get_json()
+    try:
+        data = request.get_json()
 
-    message = data.get("message", "").strip()
+        if not data:
+            return jsonify({
+                "error": "Invalid JSON body"
+            }), 400
 
-    if not message:
+        message = data.get("message", "").strip()
+        conversation_history = data.get(
+            "conversation_history",
+            []
+        )
+
+        if not message:
+            return jsonify({
+                "error": "Message is required"
+            }), 400
+
+        response = ai_service.generate_response(
+            message=message,
+            conversation_history=conversation_history
+        )
+
         return jsonify({
-            "error": "Message is required"
-        }), 400
+            "response": response
+        })
 
-    response = ai_service.generate_response(message)
+    except Exception as e:
+        print(f"Chat error: {e}")
 
-    return jsonify({
-        "response": response
-    })
+        return jsonify({
+            "error": "AI service temporarily unavailable"
+        }), 500
