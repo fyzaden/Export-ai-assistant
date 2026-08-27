@@ -52,6 +52,16 @@ def init_db():
         )
     """)
 
+    # Eski database'lerde company kolonu yoksa ekle
+    cursor.execute("PRAGMA table_info(leads)")
+    columns = [row["name"] for row in cursor.fetchall()]
+
+    if "company" not in columns:
+        cursor.execute("""
+            ALTER TABLE leads
+            ADD COLUMN company TEXT
+        """)
+
     connection.commit()
     connection.close()
 
@@ -171,6 +181,7 @@ def get_messages(conversation_id: int):
 def create_lead(
     name: str,
     phone: str,
+    company: str = "",
     message: str = "",
     session_id: str = ""
 ):
@@ -182,14 +193,16 @@ def create_lead(
         INSERT INTO leads (
             name,
             phone,
+            company,
             message,
             session_id
         )
-        VALUES (?, ?, ?, ?)
+        VALUES (?, ?, ?, ?, ?)
         """,
         (
             name,
             phone,
+            company,
             message,
             session_id
         )
