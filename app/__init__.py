@@ -6,6 +6,7 @@ from app.routes.health import health_bp
 from app.routes.chat import chat_bp
 from database.db import init_db
 from app.routes.home import home_bp
+from app.routes.leads import leads_bp
 
 
 def create_app():
@@ -19,5 +20,6 @@ def create_app():
     app.register_blueprint(health_bp)
     app.register_blueprint(chat_bp)
     app.register_blueprint(home_bp)
+    app.register_blueprint(leads_bp)
 
     return app
