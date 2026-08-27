@@ -1,0 +1,348 @@
+EXPORT AI ASSISTANT - SIKÇA SORULAN SORULAR
+
+Bu dosya, dış ticaret ve ihracat konusunda kullanıcıların sık sorabileceği temel sorulara yönelik bilgi içerir.
+
+Export AI Assistant, kullanıcıya anlaşılır, pratik ve profesyonel bilgiler vermelidir.
+
+1. İHRACAT NEDİR?
+
+İhracat, bir malın veya hizmetin başka bir ülkeye satılması ve gönderilmesidir.
+
+İhracat işlemlerinde ticari anlaşma, ürün, hedef ülke, gümrük işlemleri, lojistik, ödeme yöntemi ve gerekli belgeler birlikte değerlendirilir.
+
+2. İHRACATA NASIL BAŞLANIR?
+
+İhracata başlamak için öncelikle ihraç edilecek ürünün belirlenmesi gerekir.
+
+Daha sonra:
+- Ürünün doğru şekilde tanımlanması
+- GTİP/HS kodunun belirlenmesi
+- Hedef pazarların araştırılması
+- Hedef ülkedeki ithalat koşullarının incelenmesi
+- Gerekli belgelerin belirlenmesi
+- Uygun lojistik yönteminin seçilmesi
+- Ödeme yönteminin belirlenmesi
+- Potansiyel müşterilerin araştırılması
+
+gibi aşamalar değerlendirilmelidir.
+
+3. GTİP NEDİR?
+
+GTİP, Türkiye'de gümrük işlemlerinde kullanılan 12 haneli Gümrük Tarife İstatistik Pozisyonu kodudur.
+
+Ürünlerin gümrük sınıflandırılmasında kullanılır.
+
+Bir ürünün GTİP kodu yalnızca ürünün genel adına bakılarak kesin olarak belirlenmemelidir.
+
+Doğru sınıflandırma için ürünün:
+- Malzemesi
+- Kullanım amacı
+- Teknik özellikleri
+- Çalışma prensibi
+- Üretim şekli
+- Fiziksel özellikleri
+
+gibi bilgiler gerekebilir.
+
+4. INCOTERMS NEDİR?
+
+Incoterms, uluslararası ticarette alıcı ve satıcının teslimatla ilgili sorumluluklarını, masraflarını ve risklerini belirleyen uluslararası kurallardır.
+
+Örneğin:
+- EXW
+- FCA
+- FOB
+- CFR
+- CIF
+- DAP
+- DDP
+
+gibi teslim şekilleri bulunur.
+
+Incoterms bir ödeme yöntemi değildir.
+
+5. FCA NEDİR?
+
+FCA, Free Carrier anlamına gelir.
+
+Satıcı, üzerinde anlaşılmış teslim noktasında malı taşıyıcıya veya alıcı tarafından belirlenen kişiye teslim eder.
+
+FCA özellikle farklı taşıma türleriyle kullanılabilmesi nedeniyle yaygın bir teslim şeklidir.
+
+6. FCA İLE FOB ARASINDAKİ FARK NEDİR?
+
+FCA farklı taşıma türlerinde kullanılabilir.
+
+FOB ise deniz veya iç su taşımacılığında kullanılır.
+
+FOB'da satıcı malı gemiye yükler.
+
+FCA'da teslim noktası tarafların anlaşmasına göre fabrika, terminal veya başka bir yer olabilir.
+
+Hangi teslim şeklinin uygun olduğu işlem ve taşıma şekline göre değerlendirilmelidir.
+
+7. A.TR NEDİR?
+
+A.TR Dolaşım Belgesi, Türkiye ile Avrupa Birliği arasındaki Gümrük Birliği kapsamında belirli eşyanın serbest dolaşım statüsünü gösteren dolaşım belgesidir.
+
+A.TR bir menşe belgesi değildir.
+
+8. EUR.1 NEDİR?
+
+EUR.1, ilgili tercihli ticaret anlaşmaları kapsamında eşyanın tercihli menşe statüsünü kanıtlamaya yarayan bir menşe ispat belgesidir.
+
+EUR.1 ile A.TR aynı belge değildir.
+
+9. A.TR İLE EUR.1 ARASINDAKİ FARK NEDİR?
+
+A.TR belirli eşyanın serbest dolaşım statüsüyle ilişkilidir.
+
+EUR.1 ise tercihli menşe statüsünün ispatıyla ilişkilidir.
+
+Hangi belgenin kullanılacağı hedef ülke, ürün ve ilgili ticaret anlaşmasına göre belirlenmelidir.
+
+10. İHRACATTA HANGİ BELGELER GEREKİR?
+
+Gerekli belgeler ürüne, ülkeye, taşıma şekline, teslim şekline ve ilgili mevzuata göre değişebilir.
+
+Sıklıkla karşılaşılabilecek belgeler:
+- Ticari fatura
+- Packing List
+- Gümrük beyannamesi
+- Menşe belgesi
+- A.TR
+- EUR.1
+- CMR
+- Bill of Lading
+- Air Waybill
+- Sigorta belgesi
+
+Ancak bunların tamamı her ihracat işleminde zorunlu değildir.
+
+11. NAVLUN NEDİR?
+
+Navlun, yükün taşınması için taşıyıcıya veya lojistik hizmet sağlayıcısına ödenen taşıma bedelidir.
+
+Navlun ile toplam lojistik maliyeti aynı şey değildir.
+
+Toplam maliyet içerisinde taşıma dışında:
+- Sigorta
+- Terminal ücretleri
+- Elleçleme
+- Depolama
+- Gümrükleme
+- Diğer operasyonel giderler
+
+bulunabilir.
+
+12. EN UCUZ TAŞIMA ŞEKLİ HANGİSİDİR?
+
+Tek bir taşıma yöntemi her durumda en ucuz değildir.
+
+Maliyet;
+- Ürün ağırlığı
+- Ürün hacmi
+- Mesafe
+- Güzergah
+- Teslim süresi
+- Taşıma türü
+- Yakıt ve piyasa koşulları
+- Ek hizmetler
+
+gibi faktörlere göre değişebilir.
+
+13. ÖDEME YÖNTEMLERİ NELERDİR?
+
+Dış ticarette kullanılan temel ödeme yöntemleri:
+- Peşin ödeme
+- Mal mukabili
+- Vesaik mukabili
+- Akreditif
+- Açık hesap
+
+şeklinde sıralanabilir.
+
+Her yöntemin ihracatçı ve ithalatçı açısından farklı riskleri vardır.
+
+14. EN GÜVENLİ ÖDEME YÖNTEMİ HANGİSİDİR?
+
+Her işlem için tek bir ödeme yöntemi kesin olarak en güvenli yöntem değildir.
+
+Risk;
+- Alıcının güvenilirliği
+- Ülke riski
+- İşlem tutarı
+- Ticari geçmiş
+- Bankalar
+- Ürün
+- Sözleşme koşulları
+
+gibi faktörlere göre değişir.
+
+15. AKREDİTİF NEDİR?
+
+Akreditif, bankaların dahil olduğu ve belirli şartların ve belgelerin yerine getirilmesiyle ödeme mekanizması oluşturan bir dış ticaret ödeme yöntemidir.
+
+Akreditifte belgelerin şartlara uygun hazırlanması önemlidir.
+
+16. YENİ BİR MÜŞTERİ GÜVENİLİR Mİ NASIL ANLAŞILIR?
+
+Potansiyel bir müşterinin güvenilirliği değerlendirilirken:
+- Firma bilgileri
+- Ticari geçmiş
+- Referanslar
+- Finansal durum
+- Şirket kayıtları
+- Web sitesi ve kurumsal bilgiler
+- Ticari iletişim bilgileri
+- Ülke riski
+
+gibi unsurlar araştırılabilir.
+
+Ancak yalnızca bir web sitesi veya sosyal medya hesabına bakılarak bir firmanın güvenilir olduğu kesin olarak söylenmemelidir.
+
+17. İHRACAT İÇİN HANGİ ÜLKEYİ SEÇMELİYİM?
+
+Hedef ülke seçilirken:
+- Ürüne yönelik talep
+- İthalat hacmi
+- Rekabet
+- Gümrük vergileri
+- Ticaret anlaşmaları
+- Lojistik maliyetleri
+- Pazar büyüklüğü
+- Tüketici özellikleri
+- Mevzuat
+- Ürüne yönelik teknik gereklilikler
+
+gibi kriterler değerlendirilmelidir.
+
+18. HANGİ ÜLKELERE İHRACAT YAPABİLİRİM?
+
+Bir ürün teorik olarak birçok pazara ihraç edilebilir ancak ticari olarak uygun hedef pazarın belirlenmesi için ürün ve pazar araştırması yapılmalıdır.
+
+Export AI Assistant kullanıcıdan:
+- Ürün
+- GTİP/HS kodu
+- Hedef ülkeler
+- Üretim kapasitesi
+- Fiyat aralığı
+- Minimum sipariş miktarı
+- Mevcut ihracat deneyimi
+
+gibi bilgileri isteyebilir.
+
+19. İHRACAT FIRSATI NASIL ARAŞTIRILIR?
+
+Bir ürün için ihracat fırsatı araştırılırken öncelikle hedef pazar belirlenmelidir.
+
+Daha sonra:
+- Ürünün hedef ülkelerdeki ithalat talebi
+- Rakip ülkeler
+- Fiyat seviyeleri
+- Gümrük vergileri
+- Ticaret anlaşmaları
+- Potansiyel alıcılar
+- Distribütörler
+- Toptancılar
+- Perakendeciler
+
+araştırılabilir.
+
+20. POTANSİYEL ALICI FİRMA NASIL BULUNUR?
+
+Potansiyel alıcı araştırmasında ürün ve hedef ülke temel kriterlerdir.
+
+Araştırmada:
+- Firma sektörü
+- Ürün kategorisi
+- Ülke
+- Şehir
+- Firma büyüklüğü
+- İthalat geçmişi
+- Web sitesi
+- İletişim bilgileri
+
+gibi kriterler kullanılabilir.
+
+Export AI Assistant, doğrulanmış güncel veri olmadan firma adı, ithalat hacmi, satın alma miktarı veya iletişim bilgisi uydurmamalıdır.
+
+21. "BANA 5 TANE İHRACAT YAPABİLECEĞİM FİRMA BUL" DENİRSE NE YAPILMALI?
+
+Asistan öncelikle:
+- Hangi ürün?
+- Hangi GTİP/HS kodu?
+- Hangi ülkeler?
+- Hangi fiyat aralığı?
+- Minimum sipariş miktarı?
+- Hedef müşteri tipi nedir?
+
+gibi bilgileri netleştirmelidir.
+
+Güncel ve doğrulanabilir firma verisine erişim varsa potansiyel alıcılar belirlenen kriterlere göre araştırılabilir.
+
+Güncel doğrulanmış veri yoksa gerçek firma isimleri uydurulmamalıdır.
+
+22. ASİSTAN BİLGİDEN EMİN DEĞİLSE NE YAPMALI?
+
+Asistan bilmediği veya doğrulayamadığı bilgiyi kesin gerçek gibi sunmamalıdır.
+
+Özellikle:
+- GTİP kodları
+- Gümrük vergileri
+- Güncel mevzuat
+- Yaptırımlar
+- Firma bilgileri
+- Güncel ithalat/ihracat istatistikleri
+- Navlun fiyatları
+- Güncel taşıma süreleri
+- Ülkeye özel ithalat şartları
+
+gibi değişken bilgiler için güncel ve doğrulanmış veri gerektiğini belirtmelidir.
+
+23. ASİSTANIN TEMEL AMACI
+
+Export AI Assistant'ın amacı yalnızca sorulara cevap vermek değildir.
+
+Asistan kullanıcının ihracat sürecini daha iyi anlamasına ve doğru kararlar verebilmesine yardımcı olmalıdır.
+
+Kullanıcı bir ürün veya ihracat fikriyle geldiğinde gerektiğinde şu bilgileri toplamaya çalışmalıdır:
+- Ürün
+- GTİP/HS kodu
+- Hedef ülke
+- Hedef müşteri
+- Ürün fiyatı
+- Üretim kapasitesi
+- Minimum sipariş miktarı
+- Teslim süresi
+- Tercih edilen Incoterm
+- Ödeme yöntemi
+- Lojistik tercihi
+
+Asistan, eksik bilgiler varsa kullanıcıya uygun sorular sorarak süreci adım adım ilerletmelidir.
+
+24. DİL KURALI
+
+Export AI Assistant kullanıcının mesajıyla aynı dilde cevap vermelidir.
+
+Kullanıcı Türkçe konuşuyorsa Türkçe.
+
+Kullanıcı İngilizce konuşuyorsa İngilizce.
+
+Kullanıcı başka bir dil kullanıyorsa mümkün olduğunda aynı dilde cevap verilmelidir.
+
+25. GENEL GÜVENİLİRLİK KURALI
+
+Export AI Assistant hiçbir zaman:
+- Firma ismi
+- GTİP kodu
+- Vergi oranı
+- İthalat istatistiği
+- İhracat istatistiği
+- Güncel mevzuat
+- Navlun fiyatı
+- İletişim bilgisi
+
+gibi doğrulanması gereken bilgileri uydurmamalıdır.
+
+Güncel bilgi gerektiğinde kullanıcıya güncel ve güvenilir bir kaynaktan doğrulama yapılması gerektiğini belirtmelidir.

@@ -1,0 +1,158 @@
+İHRACATTA KULLANILAN TEMEL BELGELER
+
+İhracat işlemlerinde kullanılacak belgeler; ürünün niteliğine, hedef ülkeye, taşıma şekline, teslim şekline, ticaret anlaşmalarına, gümrük uygulamalarına ve işlemin türüne göre değişebilir.
+
+Export AI Assistant, her ihracatta bütün belgelerin zorunlu olduğunu varsaymamalıdır.
+
+TİCARİ FATURA (COMMERCIAL INVOICE)
+
+Ticari fatura, ihracata konu olan malın satışına ilişkin temel ticari belgelerden biridir.
+
+Genellikle:
+- Satıcı ve alıcı bilgileri
+- Fatura numarası ve tarihi
+- Ürün tanımı
+- Miktar
+- Birim fiyat
+- Toplam fiyat
+- Para birimi
+- Teslim şekli (Incoterm)
+- Ödeme koşulları
+- Gerekli durumlarda GTİP/HS bilgileri
+gibi bilgiler içerebilir.
+
+PROFORMA FATURA
+
+Proforma fatura, satış gerçekleşmeden önce teklif veya ön fatura niteliğinde kullanılabilen ticari bir belgedir.
+
+Proforma fatura ile ticari fatura aynı şey değildir.
+
+Proforma fatura; teklif, ön sipariş, akreditif veya ithalat işlemlerine ilişkin ön süreçlerde kullanılabilir.
+
+PACKING LIST / ÇEKİ LİSTESİ
+
+Packing List, sevkiyatın fiziksel içeriğini gösteren belgedir.
+
+Genellikle:
+- Koli/paket sayısı
+- Paketlerin içeriği
+- Brüt ağırlık
+- Net ağırlık
+- Ölçüler
+- Ambalaj bilgileri
+- İşaretleme veya paket numaraları
+
+gibi bilgiler içerir.
+
+Packing List ile ticari fatura aynı belge değildir.
+
+GÜMRÜK BEYANNAMESİ
+
+Gümrük beyannamesi, eşyanın gümrük işlemlerinde kullanılan resmi beyandır.
+
+İhracat işlemlerinde eşyanın gümrük statüsünün belirlenmesi ve gümrük işlemlerinin yürütülmesi açısından önemlidir.
+
+Beyannamenin hazırlanması ve gümrük işlemlerinin yürütülmesinde ihracatçı veya yetkili gümrük müşaviri rol alabilir.
+
+MENŞE ŞAHADETNAMESİ / CERTIFICATE OF ORIGIN
+
+Menşe şahadetnamesi, eşyanın menşe ülkesini göstermeye yarayan belgedir.
+
+Menşe, eşyanın ekonomik milliyetini ifade eder.
+
+Menşe bilgisi; gümrük vergilerinin hesaplanması, ticaret politikası önlemleri ve bazı ticaret anlaşmalarının uygulanması açısından önem taşıyabilir.
+
+Menşe şahadetnamesi ile tercihli menşe ispat belgeleri aynı şey değildir.
+
+A.TR DOLAŞIM BELGESİ
+
+A.TR Dolaşım Belgesi, Türkiye ile Avrupa Birliği arasındaki Gümrük Birliği kapsamında belirli eşyanın tercihli rejimden yararlanabilmesiyle bağlantılı bir dolaşım belgesidir.
+
+A.TR belgesi eşyanın menşeini göstermez.
+
+A.TR esas olarak eşyanın serbest dolaşım statüsünü gösterir.
+
+A.TR gerekliliği ve kullanım koşulları işlem konusu eşya ve ilgili mevzuata göre değerlendirilmelidir.
+
+EUR.1 DOLAŞIM SERTİFİKASI
+
+EUR.1 Dolaşım Sertifikası, ilgili tercihli ticaret anlaşmasının kuralları çerçevesinde eşyanın tercihli menşe statüsünü kanıtlamaya yarayan bir menşe ispat belgesidir.
+
+EUR.1, uygun koşullar sağlandığında ithalatçı ülkede tercihli tarife uygulamasından yararlanılmasını sağlayabilir.
+
+EUR.1 ile A.TR aynı belge değildir.
+
+EUR.1 menşe ile bağlantılıdır.
+
+A.TR ise belirli kapsamda serbest dolaşım statüsü ile bağlantılıdır.
+
+FATURA BEYANI
+
+Fatura beyanı, belirli ticaret anlaşmaları kapsamında eşyanın tercihli menşe statüsünü fatura veya başka uygun ticari belge üzerinde beyan etmeye yarayan bir menşe ispat yöntemidir.
+
+Fatura beyanının kullanılabilmesi için ilgili anlaşmanın ve ihracatçının durumunun kontrol edilmesi gerekir.
+
+TAŞIMA BELGELERİ
+
+Taşıma şekline göre farklı taşıma belgeleri kullanılabilir.
+
+Karayolu:
+CMR
+
+Denizyolu:
+Bill of Lading (B/L) / Konşimento
+
+Havayolu:
+Air Waybill (AWB) / Hava Konşimentosu
+
+Demiryolu:
+İlgili demiryolu taşıma belgeleri
+
+Taşıma belgesinin türü kullanılan taşıma şekline ve lojistik operasyonuna göre değişir.
+
+SİGORTA BELGELERİ
+
+Taşıma sigortası ile ilgili belgeler, yapılan sigorta işlemine ve seçilen teslim şekline göre kullanılabilir.
+
+Özellikle CIF gibi sigortanın satıcı tarafından sağlanmasının söz konusu olduğu teslim şekillerinde sigorta konusu ayrıca değerlendirilmelidir.
+
+MENŞE VE DOLAŞIM BELGELERİ ARASINDAKİ FARK
+
+A.TR ile EUR.1 birbirinin alternatifi olarak her işlemde kullanılabilecek aynı tür belgeler değildir.
+
+A.TR belirli durumlarda serbest dolaşım statüsünü gösterirken, EUR.1 tercihli menşe statüsünün ispatında kullanılabilir.
+
+Hangi belgenin kullanılacağı:
+- hedef ülkeye
+- ürünün niteliğine
+- ilgili ticaret anlaşmasına
+- ürünün menşe durumuna
+- tercihli tarife koşullarına
+- güncel mevzuata
+
+göre belirlenmelidir.
+
+BELGE KONTROLÜ
+
+Bir kullanıcı "İhracat için hangi belgeler gerekli?" diye sorarsa asistan doğrudan bütün belgeleri zorunlu olarak sıralamamalıdır.
+
+Öncelikle mümkün olduğunda:
+- Ürün nedir?
+- Hangi ülkeden ihracat yapılıyor?
+- Hangi ülkeye gönderilecek?
+- Taşıma şekli nedir?
+- Hangi Incoterm kullanılacak?
+- İşlem ticari ihracat mı, e-ihracat mı?
+- Ürünün özel izin veya sertifika gerektiren bir niteliği var mı?
+
+gibi sorular sorulmalıdır.
+
+GÜNCEL MEVZUAT
+
+Belge gereklilikleri zaman içinde değişebilir.
+
+A.TR, EUR.1, menşe belgeleri, elektronik belge uygulamaları, gümrük beyannamesi ve diğer ihracat belgeleri hakkında güncel bilgi gerektiğinde resmi ve güncel kaynakların kontrol edilmesi gerekir.
+
+Asistan güncel mevzuatı doğrulamadan "Bu belge kesinlikle zorunludur" şeklinde kesin ifadeler kullanmamalıdır.
+
+Export AI Assistant, kullanıcıya genel bilgi sağlayabilir ancak resmi gümrük işlemlerinde güncel mevzuat ve yetkili uzman/kurum kontrolünü gerektiğinde önermelidir.

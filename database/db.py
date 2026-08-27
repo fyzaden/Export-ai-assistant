@@ -1,0 +1,158 @@
+import sqlite3
+from pathlib import Path
+
+
+BASE_DIR = Path(__file__).resolve().parent
+DB_PATH = BASE_DIR / "export_ai_assistant.db"
+
+
+def get_connection():
+    connection = sqlite3.connect(DB_PATH)
+    connection.row_factory = sqlite3.Row
+
+    return connection
+
+
+def init_db():
+    connection = get_connection()
+
+    cursor = connection.cursor()
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS conversations (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            session_id TEXT NOT NULL,
+            created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+        )
+    """)
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS messages (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            conversation_id INTEGER NOT NULL,
+            role TEXT NOT NULL,
+            content TEXT NOT NULL,
+            created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+
+            FOREIGN KEY (conversation_id)
+                REFERENCES conversations(id)
+        )
+    """)
+
+    connection.commit()
+    connection.close()
+
+
+def create_conversation(session_id: str) -> int:
+    connection = get_connection()
+
+    cursor = connection.cursor()
+
+    cursor.execute(
+        """
+        INSERT INTO conversations (session_id)
+        VALUES (?)
+        """,
+        (session_id,)
+    )
+
+    conversation_id = cursor.lastrowid
+
+    connection.commit()
+    connection.close()
+
+    return conversation_id
+
+
+def save_message(
+    conversation_id: int,
+    role: str,
+    content: str
+):
+    connection = get_connection()
+
+    cursor = connection.cursor()
+
+    cursor.execute(
+        """
+        INSERT INTO messages (
+            conversation_id,
+            role,
+            content
+        )
+        VALUES (?, ?, ?)
+        """,
+        (
+            conversation_id,
+            role,
+            content
+        )
+    )
+
+    connection.commit()
+    connection.close()
+
+
+def get_messages(conversation_id: int):
+    connection = get_connection()
+
+    cursor = connection.cursor()
+
+    cursor.execute(
+        """
+        SELECT role, content
+        FROM messages
+        WHERE conversation_id = ?
+        ORDER BY id ASC
+        """,
+        (conversation_id,)
+    )
+
+    rows = cursor.fetchall()
+
+    connection.close()
+
+    return [
+        {
+            "role": row["role"],
+            "text": row["content"]
+        }
+        for row in rows
+    ]
+
+def get_or_create_conversation(session_id: str) -> int:
+    connection = get_connection()
+
+    cursor = connection.cursor()
+
+    cursor.execute(
+        """
+        SELECT id
+        FROM conversations
+        WHERE session_id = ?
+        ORDER BY id DESC
+        LIMIT 1
+        """,
+        (session_id,)
+    )
+
+    row = cursor.fetchone()
+
+    if row:
+        connection.close()
+        return row["id"]
+
+    cursor.execute(
+        """
+        INSERT INTO conversations (session_id)
+        VALUES (?)
+        """,
+        (session_id,)
+    )
+
+    conversation_id = cursor.lastrowid
+
+    connection.commit()
+    connection.close()
+
+    return conversation_id

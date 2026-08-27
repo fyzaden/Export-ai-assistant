@@ -1,0 +1,149 @@
+DIŞ TİCARET VE LOJİSTİK TEMEL BİLGİLERİ
+
+Lojistik, ihracat ve ithalat işlemlerinde ürünün satıcıdan alıcıya taşınması, depolanması, elleçlenmesi ve teslim edilmesi süreçlerini kapsar.
+
+Bir ihracat işleminde lojistik planlanırken ürünün özellikleri, taşıma mesafesi, hedef ülke, teslim şekli (Incoterm), teslim süresi, maliyet, ürünün hassasiyeti ve taşıma şekli birlikte değerlendirilmelidir.
+
+TAŞIMA TÜRLERİ
+
+KARAYOLU
+
+Karayolu taşımacılığı özellikle aynı kıta veya birbirine yakın ülkeler arasındaki ticarette yaygın olarak kullanılabilir.
+
+Avantajları:
+- Kapıdan kapıya taşımaya uygun olabilir.
+- Esnek güzergah ve teslimat seçenekleri sunabilir.
+- Kısa ve orta mesafelerde avantajlı olabilir.
+
+Dezavantajları:
+- Mesafeye ve ülkelere bağlı olarak maliyet artabilir.
+- Sınır geçişleri ve gümrük işlemleri teslim süresini etkileyebilir.
+- Yol ve hava koşulları taşıma süresini etkileyebilir.
+
+DENİZYOLU
+
+Denizyolu taşımacılığı özellikle yüksek hacimli veya ağır yüklerin uzun mesafelerde taşınmasında yaygın olarak kullanılır.
+
+Avantajları:
+- Büyük miktardaki yüklerin taşınmasına uygundur.
+- Uzun mesafelerde birim taşıma maliyeti avantajlı olabilir.
+
+Dezavantajları:
+- Transit süresi karayolu veya havayoluna göre daha uzun olabilir.
+- Liman operasyonları ve aktarmalar teslim sürecini etkileyebilir.
+
+HAVAYOLU
+
+Havayolu taşımacılığı hızlı teslimat gerektiren, yüksek değerli veya nispeten düşük hacimli ürünlerde tercih edilebilir.
+
+Avantajları:
+- Hızlı taşıma süresi sağlar.
+- Uzun mesafelerde hızlı teslimat avantajı sunar.
+
+Dezavantajları:
+- Genellikle diğer taşıma türlerine göre daha yüksek maliyetlidir.
+- Ağırlık ve hacim sınırlamaları olabilir.
+
+DEMİRYOLU
+
+Demiryolu taşımacılığı özellikle belirli güzergahlarda büyük miktardaki yüklerin taşınması için kullanılabilir.
+
+Avantajları:
+- Büyük miktardaki yükler için uygun olabilir.
+- Uzun mesafelerde ekonomik bir seçenek olabilir.
+
+Dezavantajları:
+- Her ülke ve güzergah için doğrudan erişim bulunmayabilir.
+- Genellikle başka taşıma türleriyle bağlantı veya aktarma gerekebilir.
+
+MULTİMODAL VE KOMBİNE TAŞIMACILIK
+
+Bir yükün taşınması sırasında birden fazla taşıma türünün kullanılması multimodal veya kombine taşımacılık çözümlerinin parçası olabilir.
+
+Örneğin:
+
+Fabrika → kamyon → liman → gemi → varış limanı → kamyon → alıcı
+
+şeklinde bir taşıma zinciri oluşturulabilir.
+
+NAVLUN
+
+Navlun, yükün taşınması karşılığında taşıyıcıya veya lojistik hizmet sağlayıcısına ödenen taşıma bedelini ifade eder.
+
+Navlun fiyatı;
+- taşıma türüne
+- mesafeye
+- yükün ağırlığına
+- yükün hacmine
+- yükün niteliğine
+- güzergaha
+- yakıt ve piyasa koşullarına
+- sezonluk talebe
+- liman, terminal veya diğer operasyonlara
+
+göre değişebilir.
+
+Navlun ile toplam lojistik maliyeti aynı şey değildir. Toplam lojistik maliyetinde taşıma dışında sigorta, elleçleme, terminal, gümrükleme, depolama ve diğer hizmet bedelleri de bulunabilir.
+
+SİGORTA
+
+Uluslararası taşımada ürünün taşıma sırasında karşılaşabileceği risklere karşı sigorta seçenekleri değerlendirilebilir.
+
+Sigorta kapsamı, teminatlar, istisnalar ve sorumluluklar poliçeye ve seçilen teslim şekline göre değerlendirilmelidir.
+
+INCOTERMS VE LOJİSTİK İLİŞKİSİ
+
+Incoterms, taşıma sürecinde tarafların sorumluluklarının ve risklerin hangi noktada değiştiğini anlamak açısından önemlidir.
+
+EXW:
+Satıcının sorumluluğu genel olarak sınırlıdır. Alıcı taşıma sürecinin önemli bölümünü üstlenebilir.
+
+FCA:
+Satıcı, kararlaştırılan teslim noktasına kadar yükün hazırlanması ve ihracat işlemleri gibi sorumlulukları üstlenir. Mal taşıyıcıya veya belirlenen kişiye teslim edildiğinde ilgili risk geçişi gerçekleşir.
+
+FOB:
+Deniz veya iç su taşımacılığında kullanılır. Satıcı malı gemiye yükler. Risk gemiye yükleme noktasında alıcıya geçer.
+
+CFR:
+Satıcı varış limanına kadar navlun maliyetini üstlenir. Ancak risk malın gemiye yüklenmesiyle alıcıya geçer.
+
+CIF:
+CFR'ye benzer şekilde satıcı navlun maliyetini üstlenir ve ayrıca belirlenen sigorta teminatını sağlar. Risk gemiye yükleme noktasında alıcıya geçer.
+
+DAP:
+Satıcı malı belirlenen varış yerinde alıcının tasarrufuna bırakır. İthalat işlemleri ve ithalat vergileri genel olarak alıcıya aittir.
+
+DDP:
+Satıcı daha geniş kapsamlı sorumluluk üstlenir ve ithalat işlemleri ile ithalat vergileri dahil olmak üzere belirlenen varış noktasına kadar olan süreci üstlenir.
+
+ÖNEMLİ LOJİSTİK KURALI
+
+Bir kullanıcı "En ucuz taşıma yöntemi hangisi?" diye sorduğunda tek bir taşıma türünü her durumda en ucuz seçenek olarak göstermeyin.
+
+Maliyet; ürünün ağırlığı, hacmi, mesafesi, teslim süresi, güzergahı, taşıma şekli ve diğer lojistik giderlere göre değişebilir.
+
+Bir kullanıcıya lojistik seçeneği önerilirken mümkün olduğunda:
+- ürünün ne olduğu
+- ağırlığı
+- hacmi
+- çıkış ülkesi/şehri
+- varış ülkesi/şehri
+- teslim süresi
+- tercih edilen Incoterm
+- ürünün hassas veya özel taşıma gerektirip gerektirmediği
+
+sorulmalıdır.
+
+GÜNCEL BİLGİLER
+
+Navlun fiyatları, taşıma süreleri, liman koşulları, güzergahlar, yakıt maliyetleri, sınır geçişleri ve ülkeye özgü lojistik uygulamaları zaman içinde değişebilir.
+
+Bu nedenle belirli bir güzergah için güncel fiyat, transit süre veya operasyonel durum sorulduğunda güncel ve doğrulanmış lojistik veriler gerektiği belirtilmelidir.
+
+ASİSTANIN DAVRANIŞI
+
+Export AI Assistant, kullanıcıya lojistik konusunda pratik ve anlaşılır bilgi vermelidir.
+
+Kullanıcı ürün, çıkış ülkesi ve hedef ülkeyi belirttiğinde uygun taşıma türlerini karşılaştırabilir.
+
+Ancak güncel navlun fiyatlarını, transit süreleri, firma bilgilerini veya güzergah durumlarını doğrulanmış güncel veri olmadan kesin bilgi olarak sunmamalıdır.

@@ -1,9 +1,11 @@
 from google import genai
 
 from config.config import Config
+from app.services.knowledge_service import search_knowledge
 
 
 class AIService:
+
     def __init__(self):
         self.client = genai.Client(
             api_key=Config.GEMINI_API_KEY
@@ -21,7 +23,7 @@ class AIService:
 
         contents = []
 
-        # Önceki konuşmaları ekle
+        # Önceki konuşmaları Gemini'ye gönder
         for item in conversation_history:
             contents.append({
                 "role": item["role"],
@@ -32,16 +34,31 @@ class AIService:
                 ]
             })
 
-        # Business context + yeni kullanıcı mesajı
+        # Knowledge Base'den ilgili bilgileri bul
+        knowledge = search_knowledge(message)
+
+        knowledge_context = ""
+
+        if knowledge:
+            knowledge_context = (
+                "\n\nRELEVANT KNOWLEDGE BASE INFORMATION:\n"
+                f"{knowledge}\n\n"
+                "Use the knowledge base information when "
+                "it is relevant to the user's question. "
+                "Do not invent factual information.\n"
+            )
+
+        # Kullanıcının mesajı
         contents.append({
             "role": "user",
             "parts": [
                 {
                     "text": (
-                        f"{Config.BUSINESS_CONTEXT}\n\n"
-                        "Respond in the same language as the user. "
-                        "The user message is:\n\n"
-                        f"{message}"
+                        f"{Config.BUSINESS_CONTEXT}"
+                        f"{knowledge_context}\n\n"
+                        "Respond in the same language as "
+                        "the user.\n\n"
+                        f"User message:\n{message}"
                     )
                 }
             ]

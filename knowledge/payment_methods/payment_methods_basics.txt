@@ -1,0 +1,195 @@
+DIŞ TİCARETTE TEMEL ÖDEME YÖNTEMLERİ
+
+Dış ticarette ödeme yöntemi, ihracatçı ile ithalatçı arasındaki ticari işlemin bedelinin nasıl ve hangi koşullarda ödeneceğini belirler.
+
+Ödeme yöntemi ile Incoterm aynı şey değildir.
+
+Incoterms; teslim, risk, masraf ve sorumlulukların taraflar arasında nasıl paylaşılacağını düzenler.
+
+Ödeme yöntemi ise mal bedelinin ne zaman, nasıl ve hangi şartlarla ödeneceğini belirler.
+
+Başlıca dış ticaret ödeme yöntemleri:
+- Peşin ödeme
+- Mal mukabili ödeme
+- Vesaik mukabili ödeme
+- Akreditif
+- Açık hesap
+
+PEŞİN ÖDEME
+
+Peşin ödemede ithalatçı, ürün gönderilmeden önce veya sevkiyat öncesinde mal bedelinin tamamını veya kararlaştırılan kısmını öder.
+
+İhracatçı açısından genellikle daha düşük ödeme riski taşır.
+
+İthalatçı açısından ise ürünleri teslim almadan önce ödeme yaptığı için daha yüksek risk oluşturabilir.
+
+Peşin ödeme özellikle yeni ve güven ilişkisi henüz oluşmamış ticari ilişkilerde ihracatçı açısından avantajlı olabilir.
+
+MAL MUKABİLİ ÖDEME
+
+Mal mukabili ödemede ihracatçı ürünü gönderir ve ithalatçı malı aldıktan veya kararlaştırılan vadede ödeme yapar.
+
+Bu yöntemde ihracatçı açısından ödeme riski daha yüksek olabilir.
+
+İthalatçı açısından ise ürünleri aldıktan sonra ödeme yapabilmesi nedeniyle daha avantajlı olabilir.
+
+Mal mukabili ödeme genellikle taraflar arasında belirli bir güven ilişkisi bulunan ticari ilişkilerde tercih edilebilir.
+
+VADELİ ÖDEME
+
+Taraflar ödeme için belirli bir vade üzerinde anlaşabilir.
+
+Örneğin:
+- 30 gün
+- 60 gün
+- 90 gün
+
+gibi vadeler belirlenebilir.
+
+Vade süresi ihracatçının tahsilat riskini ve finansman ihtiyacını etkileyebilir.
+
+VESAİK MUKABİLİ ÖDEME
+
+Vesaik mukabili yöntemde bankalar, ihracata ilişkin belgelerin ithalatçıya teslim edilmesi sürecinde rol oynar.
+
+Belgeler karşılığında ödeme yapılabilir veya belirli ödeme taahhütleri alınabilir.
+
+Başlıca yöntemler:
+
+D/P - Documents Against Payment
+
+Belgeler ödeme karşılığında teslim edilir.
+
+D/A - Documents Against Acceptance
+
+Belgeler, ithalatçının vadeli ödeme taahhüdünü kabul etmesi karşılığında teslim edilebilir.
+
+Vesaik mukabili işlemde bankaların rolü önemlidir ancak banka, akreditifte olduğu gibi her durumda ödeme garantisi vermez.
+
+AKREDİTİF (LETTER OF CREDIT / L/C)
+
+Akreditif, bankaların dahil olduğu ve belirli şartların yerine getirilmesi halinde ödeme mekanizması oluşturan bir ödeme yöntemidir.
+
+Akreditifte ithalatçının bankası, belirlenen şartlar ve belgeler karşılığında ihracatçıya ödeme yapılmasına ilişkin bir taahhüt oluşturabilir.
+
+Akreditifte belgelerin şartlara uygun hazırlanması çok önemlidir.
+
+Akreditif şartlarında örneğin:
+- Ticari fatura
+- Taşıma belgesi
+- Sigorta belgesi
+- Menşe belgesi
+- Diğer özel belgeler
+
+istenebilir.
+
+Belgelerin akreditif şartlarına uygun olmaması durumunda ödeme süreci etkilenebilir.
+
+AKREDİTİF TÜRLERİ
+
+Akreditifler farklı özelliklere sahip olabilir.
+
+Örneğin:
+- Gayrikabili rücu akreditif
+- Teyitli akreditif
+- Teyitsiz akreditif
+- Görüldüğünde ödemeli akreditif
+- Vadeli akreditif
+
+gibi farklı yapılar bulunabilir.
+
+Akreditif türünün ve şartlarının işlem özelinde değerlendirilmesi gerekir.
+
+AÇIK HESAP
+
+Açık hesap yönteminde ihracatçı, ürünün bedelini önceden almadan ürünü gönderir ve ithalatçı daha sonra ödeme yapar.
+
+Bu yöntem ihracatçı açısından yüksek ticari risk oluşturabilir.
+
+Genellikle taraflar arasında güven ve yerleşmiş ticari ilişki bulunan durumlarda kullanılabilir.
+
+İHRACATÇI AÇISINDAN ÖDEME RİSKİ
+
+Ödeme yöntemi seçilirken ihracatçı açısından aşağıdaki riskler değerlendirilmelidir:
+
+- Alıcının ödeme yapmaması
+- Ödemenin gecikmesi
+- Alıcının finansal durumunun bozulması
+- Ülke riski
+- Banka riski
+- Döviz kuru riski
+- Ticari uyuşmazlıklar
+- Belgelerdeki hatalar
+- Akreditif şartlarının yerine getirilememesi
+
+İTHALATÇI AÇISINDAN RİSK
+
+İthalatçı açısından da aşağıdaki konular önemlidir:
+
+- Ürünün zamanında gönderilmemesi
+- Ürünün sipariş edilen özelliklerde olmaması
+- Kalite sorunları
+- Eksik veya hatalı teslimat
+- İhracatçının yükümlülüklerini yerine getirmemesi
+- Peşin ödemede ürün teslim edilmeden ödeme yapılması
+
+YENİ MÜŞTERİYLE ÇALIŞIRKEN
+
+Yeni bir müşteriyle çalışırken ödeme yöntemi belirlenmeden önce mümkün olduğunca karşı tarafın güvenilirliği ve ticari geçmişi değerlendirilmelidir.
+
+Değerlendirilebilecek unsurlar:
+- Firma bilgileri
+- Ticari geçmiş
+- Referanslar
+- Finansal durum
+- Ülke riski
+- Bankacılık bilgileri
+- Sipariş tutarı
+- Ürün değeri
+- Daha önce yapılan işlemler
+
+Yüksek tutarlı veya yüksek riskli işlemlerde uygun ödeme güvenliği mekanizmaları değerlendirilmelidir.
+
+ÖDEME YÖNTEMİ VE INCOTERM FARKI
+
+Ödeme yöntemi ile teslim şekli birbirinden bağımsız kavramlardır.
+
+Örneğin:
+
+FCA + Peşin ödeme
+
+veya
+
+CIF + Akreditif
+
+gibi kombinasyonlar yapılabilir.
+
+FCA veya CIF ürünün teslimi, risk ve masrafların paylaşımıyla ilgilidir.
+
+Peşin ödeme veya akreditif ise ödeme süreciyle ilgilidir.
+
+ASİSTANIN DAVRANIŞI
+
+Export AI Assistant, kullanıcı "En güvenli ödeme yöntemi hangisi?" diye sorduğunda tek bir yöntemi her işlem için kesin olarak en güvenli yöntem olarak sunmamalıdır.
+
+Ödeme yöntemi seçimi:
+- ihracatçı ve ithalatçı arasındaki güven ilişkisine
+- işlem tutarına
+- ülke riskine
+- ürünün niteliğine
+- ticari geçmişe
+- teslim şekline
+- finansal koşullara
+- tarafların pazarlık gücüne
+
+göre değerlendirilmelidir.
+
+Asistan gerektiğinde ihracatçının ve ithalatçının karşı karşıya olduğu riskleri ayrı ayrı açıklamalıdır.
+
+GÜNCEL VE İŞLEM ÖZELİ BİLGİLER
+
+Bankacılık uygulamaları, mevzuat, ülke riskleri, yaptırımlar, ödeme kanalları ve ticari uygulamalar zaman içinde değişebilir.
+
+Belirli bir ülke, banka, yaptırım, ödeme yöntemi veya güncel finansal uygulama hakkında kesin bilgi verilmeden önce güncel ve doğrulanmış bilgi gerektiği belirtilmelidir.
+
+Asistan finansal veya hukuki kesinlik gerektiren durumlarda kullanıcıyı ilgili banka, dış ticaret uzmanı veya yetkili kuruma yönlendirmelidir.

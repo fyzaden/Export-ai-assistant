@@ -1,0 +1,48 @@
+INCOTERMS TEMEL BİLGİLER
+
+Incoterms, uluslararası ticarette alıcı ve satıcı arasındaki teslim şekline ilişkin sorumlulukları, maliyetleri ve risklerin hangi noktada taraflar arasında geçtiğini belirleyen uluslararası ticaret kurallarıdır.
+
+Incoterms tek başına satış sözleşmesi değildir. Malın mülkiyetinin ne zaman geçtiğini, ödeme yöntemini veya satış fiyatını tek başına belirlemez.
+
+EXW - Ex Works
+
+EXW'de satıcı malı kendi tesisinde veya belirlenen başka bir yerde alıcının tasarrufuna bırakır. Satıcının sorumluluğu diğer teslim şekillerine göre daha sınırlıdır. Ana taşıma, ihracat işlemleri ve taşıma sürecindeki birçok sorumluluk alıcıya aittir.
+
+FCA - Free Carrier
+
+FCA'da satıcı malı, kararlaştırılan yerde taşıyıcıya veya alıcının belirlediği başka bir kişiye teslim eder. İhracat işlemlerinin satıcı tarafından yapılması FCA'nın önemli özelliklerinden biridir.
+
+FOB - Free On Board
+
+FOB yalnızca deniz veya iç su taşımacılığında kullanılan bir Incoterms kuralıdır. Satıcı malı yükleme limanında gemiye yükler. Risk, mal gemiye yüklendiğinde alıcıya geçer.
+
+CFR - Cost and Freight
+
+CFR yalnızca deniz veya iç su taşımacılığında kullanılır. Satıcı malın belirlenen varış limanına kadar olan navlun maliyetini üstlenir. Ancak risk, mal gemiye yüklendiğinde alıcıya geçer.
+
+CIF - Cost, Insurance and Freight
+
+CIF yalnızca deniz veya iç su taşımacılığında kullanılır. CFR'den farklı olarak satıcı ayrıca belirlenen asgari sigorta teminatını da sağlar. Risk yine malın gemiye yüklenmesiyle alıcıya geçer.
+
+DAP - Delivered At Place
+
+DAP'de satıcı malı belirlenen varış yerinde, boşaltmaya hazır şekilde alıcının tasarrufuna bırakır. İthalat işlemleri ve ithalat vergileri genel olarak alıcıya aittir.
+
+DDP - Delivered Duty Paid
+
+DDP'de satıcı, malın belirlenen varış yerine kadar taşınması ve ithalat işlemleri dahil olmak üzere çok geniş kapsamlı sorumluluk üstlenir. İthalat vergileri ve gümrük işlemleri de satıcının sorumluluğundadır.
+
+ÖNEMLİ
+
+Incoterms seçilirken ürünün niteliği, taşıma şekli, ülke, tarafların operasyonel kapasitesi, gümrük işlemleri, sigorta ve maliyetler birlikte değerlendirilmelidir.
+
+Bir kullanıcı Incoterms hakkında soru sorduğunda mümkün olduğunda:
+
+- taşıma şeklinin uygunluğunu
+- riskin hangi noktada geçtiğini
+- temel maliyet sorumluluğunu
+- ihracat ve ithalat işlemlerindeki sorumlulukları
+
+açıklayın.
+
+Güncel mevzuat, gümrük uygulaması, vergi, yaptırım veya ülkeye özel resmi gereklilik sorularında güncel ve doğrulanmış kaynak gerektiğini belirtin.
