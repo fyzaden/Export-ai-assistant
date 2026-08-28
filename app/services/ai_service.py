@@ -28,8 +28,8 @@ class AIService:
 
             contents = []
 
-            # Önceki konuşmaları Gemini'ye gönder
-            for item in conversation_history:
+            # Son konuşmaları gönder
+            for item in conversation_history[-10:]:
                 contents.append({
                     "role": item["role"],
                     "parts": [
@@ -53,7 +53,6 @@ class AIService:
                     "Do not invent factual information.\n"
                 )
 
-            # Kullanıcının mesajı
             contents.append({
                 "role": "user",
                 "parts": [
@@ -61,18 +60,28 @@ class AIService:
                         "text": (
                             f"{Config.BUSINESS_CONTEXT}"
                             f"{knowledge_context}\n\n"
-                            "Respond in the same language as "
-                            "the user.\n\n"
+                            "Respond in the same language as the user.\n"
+                            "Keep the answer clear and concise.\n\n"
                             f"User message:\n{message}"
                         )
                     }
                 ]
             })
 
+            print("GEMINI REQUEST START")
+
             response = self.client.models.generate_content(
                 model=self.model,
-                contents=contents
+                contents=contents,
+                config=types.GenerateContentConfig(
+                    max_output_tokens=500,
+                    thinking_config=types.ThinkingConfig(
+                        thinking_level="low"
+                    )
+                )
             )
+
+            print("GEMINI REQUEST DONE")
 
             if not response or not response.text:
                 return (
@@ -82,18 +91,10 @@ class AIService:
 
             return response.text
 
-        except TimeoutError:
-            print("AI TIMEOUT ERROR")
-
-            return (
-                "The AI service took too long to respond. "
-                "Please try again."
-            )
-
         except Exception as e:
-            print("AI ERROR:", repr(e))
+            print("AI SERVICE ERROR:", repr(e))
 
             return (
-                "An error occurred while generating the response. "
+                "The AI service is temporarily unavailable. "
                 "Please try again."
             )
