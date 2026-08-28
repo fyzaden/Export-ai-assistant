@@ -19,6 +19,8 @@ class AIService:
         conversation_history: list | None = None
     ) -> str:
 
+        print("AI START")
+
         conversation_history = conversation_history or []
 
         contents = []
@@ -36,6 +38,8 @@ class AIService:
 
         # Knowledge Base'den ilgili bilgileri bul
         knowledge = search_knowledge(message)
+
+        print("KNOWLEDGE DONE")
 
         knowledge_context = ""
 
@@ -64,9 +68,13 @@ class AIService:
             ]
         })
 
+        print("GEMINI START")
+
         response = self.client.models.generate_content(
             model=self.model,
             contents=contents
         )
+
+        print("GEMINI DONE")
 
         return response.text
