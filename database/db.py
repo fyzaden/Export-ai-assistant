@@ -214,3 +214,39 @@ def create_lead(
     connection.close()
 
     return lead_id
+
+def get_leads():
+    connection = get_connection()
+    cursor = connection.cursor()
+
+    cursor.execute(
+        """
+        SELECT
+            id,
+            name,
+            phone,
+            company,
+            message,
+            session_id,
+            created_at
+        FROM leads
+        ORDER BY id DESC
+        """
+    )
+
+    rows = cursor.fetchall()
+
+    connection.close()
+
+    return [
+        {
+            "id": row["id"],
+            "name": row["name"],
+            "phone": row["phone"],
+            "company": row["company"],
+            "message": row["message"],
+            "session_id": row["session_id"],
+            "created_at": row["created_at"]
+        }
+        for row in rows
+    ]

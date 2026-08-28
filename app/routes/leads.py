@@ -1,6 +1,6 @@
 from flask import Blueprint, jsonify, request
 
-from database.db import create_lead
+from database.db import create_lead, get_leads
 
 
 leads_bp = Blueprint("leads", __name__)
@@ -81,5 +81,24 @@ def create_lead_route():
 
         return jsonify({
             "error": "Lead could not be created.",
+            "details": str(e)
+        }), 500
+
+
+@leads_bp.get("/api/leads")
+def list_leads():
+    try:
+        leads = get_leads()
+
+        return jsonify({
+            "status": "success",
+            "leads": leads
+        }), 200
+
+    except Exception as e:
+        print("GET LEADS ERROR:", repr(e))
+
+        return jsonify({
+            "error": "Leads could not be retrieved.",
             "details": str(e)
         }), 500
